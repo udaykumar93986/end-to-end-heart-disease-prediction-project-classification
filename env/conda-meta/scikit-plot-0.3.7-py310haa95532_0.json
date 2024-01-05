@@ -1,0 +1,248 @@
+{
+  "build": "py310haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "joblib >=0.10",
+    "matplotlib-base >=1.4.0",
+    "python >=3.10,<3.11.0a0",
+    "scikit-learn >=0.18",
+    "scipy >=0.9"
+  ],
+  "extracted_package_dir": "C:\\Users\\udayk\\miniconda3\\pkgs\\scikit-plot-0.3.7-py310haa95532_0",
+  "files": [
+    "Lib/site-packages/scikit_plot-0.3.7.dist-info/INSTALLER",
+    "Lib/site-packages/scikit_plot-0.3.7.dist-info/LICENSE",
+    "Lib/site-packages/scikit_plot-0.3.7.dist-info/METADATA",
+    "Lib/site-packages/scikit_plot-0.3.7.dist-info/RECORD",
+    "Lib/site-packages/scikit_plot-0.3.7.dist-info/REQUESTED",
+    "Lib/site-packages/scikit_plot-0.3.7.dist-info/WHEEL",
+    "Lib/site-packages/scikit_plot-0.3.7.dist-info/direct_url.json",
+    "Lib/site-packages/scikit_plot-0.3.7.dist-info/top_level.txt",
+    "Lib/site-packages/scikitplot/__init__.py",
+    "Lib/site-packages/scikitplot/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/scikitplot/__pycache__/classifiers.cpython-310.pyc",
+    "Lib/site-packages/scikitplot/__pycache__/cluster.cpython-310.pyc",
+    "Lib/site-packages/scikitplot/__pycache__/clustering.cpython-310.pyc",
+    "Lib/site-packages/scikitplot/__pycache__/decomposition.cpython-310.pyc",
+    "Lib/site-packages/scikitplot/__pycache__/estimators.cpython-310.pyc",
+    "Lib/site-packages/scikitplot/__pycache__/helpers.cpython-310.pyc",
+    "Lib/site-packages/scikitplot/__pycache__/metrics.cpython-310.pyc",
+    "Lib/site-packages/scikitplot/__pycache__/plotters.cpython-310.pyc",
+    "Lib/site-packages/scikitplot/classifiers.py",
+    "Lib/site-packages/scikitplot/cluster.py",
+    "Lib/site-packages/scikitplot/clustering.py",
+    "Lib/site-packages/scikitplot/decomposition.py",
+    "Lib/site-packages/scikitplot/estimators.py",
+    "Lib/site-packages/scikitplot/helpers.py",
+    "Lib/site-packages/scikitplot/metrics.py",
+    "Lib/site-packages/scikitplot/plotters.py",
+    ".nonadmin"
+  ],
+  "fn": "scikit-plot-0.3.7-py310haa95532_0.conda",
+  "legacy_bz2_md5": "e34d4e5db1fc8fc4b768383e8fa6f152",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\Users\\udayk\\miniconda3\\pkgs\\scikit-plot-0.3.7-py310haa95532_0",
+    "type": 1
+  },
+  "md5": "1fcc4e64a85bc6bf7b0c9f6c8e9005d8",
+  "name": "scikit-plot",
+  "package_tarball_full_path": "C:\\Users\\udayk\\miniconda3\\pkgs\\scikit-plot-0.3.7-py310haa95532_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/scikit_plot-0.3.7.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/scikit_plot-0.3.7.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "72a88704b46de5660a0659fc011f8e65b0e5f0ab99e54ab7c198a5167009610c",
+        "sha256_in_prefix": "72a88704b46de5660a0659fc011f8e65b0e5f0ab99e54ab7c198a5167009610c",
+        "size_in_bytes": 1076
+      },
+      {
+        "_path": "Lib/site-packages/scikit_plot-0.3.7.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "9772f0b06bc3c632e0a8f3711e5cee618088c9b8113ba92089973aa496e29a4b",
+        "sha256_in_prefix": "9772f0b06bc3c632e0a8f3711e5cee618088c9b8113ba92089973aa496e29a4b",
+        "size_in_bytes": 7294
+      },
+      {
+        "_path": "Lib/site-packages/scikit_plot-0.3.7.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "14c8c826be00264d693255de88f43555af376522b8d90018cea60c485437bb1f",
+        "sha256_in_prefix": "14c8c826be00264d693255de88f43555af376522b8d90018cea60c485437bb1f",
+        "size_in_bytes": 1893
+      },
+      {
+        "_path": "Lib/site-packages/scikit_plot-0.3.7.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/scikit_plot-0.3.7.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "db07a93359e4e034b8785a58ad6d534ea3dca0635f1e184efe2e66e1c3a299ba",
+        "sha256_in_prefix": "db07a93359e4e034b8785a58ad6d534ea3dca0635f1e184efe2e66e1c3a299ba",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "Lib/site-packages/scikit_plot-0.3.7.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "bb00df4f48a49f7fdd6ee6bd5d318538f35e23d8789c0a53ba5e781f8258e0f6",
+        "sha256_in_prefix": "bb00df4f48a49f7fdd6ee6bd5d318538f35e23d8789c0a53ba5e781f8258e0f6",
+        "size_in_bytes": 91
+      },
+      {
+        "_path": "Lib/site-packages/scikit_plot-0.3.7.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "e34d2f98b33866e481f1e247a2924fded6726f8cd06698473baf2f3e7d9178f3",
+        "sha256_in_prefix": "e34d2f98b33866e481f1e247a2924fded6726f8cd06698473baf2f3e7d9178f3",
+        "size_in_bytes": 11
+      },
+      {
+        "_path": "Lib/site-packages/scikitplot/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "21908e313b96d40ed3fc85d644c8c877f68d8dffe2ed59bcc95e9aa7bda4f376",
+        "sha256_in_prefix": "21908e313b96d40ed3fc85d644c8c877f68d8dffe2ed59bcc95e9aa7bda4f376",
+        "size_in_bytes": 272
+      },
+      {
+        "_path": "Lib/site-packages/scikitplot/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "c8f7a1c4376875b16e84d5021f861939cd37f6bbafc21ee7825ff39deadae199",
+        "sha256_in_prefix": "c8f7a1c4376875b16e84d5021f861939cd37f6bbafc21ee7825ff39deadae199",
+        "size_in_bytes": 509
+      },
+      {
+        "_path": "Lib/site-packages/scikitplot/__pycache__/classifiers.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "3f819e69e597195f963face90c4f92f7bb6eb39864eeae41a366e194caea1b30",
+        "sha256_in_prefix": "3f819e69e597195f963face90c4f92f7bb6eb39864eeae41a366e194caea1b30",
+        "size_in_bytes": 20286
+      },
+      {
+        "_path": "Lib/site-packages/scikitplot/__pycache__/cluster.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "f20a306b95f483b08c5f2a0dc855a64a2caed60e63e64a0896e35639fb85099d",
+        "sha256_in_prefix": "f20a306b95f483b08c5f2a0dc855a64a2caed60e63e64a0896e35639fb85099d",
+        "size_in_bytes": 4906
+      },
+      {
+        "_path": "Lib/site-packages/scikitplot/__pycache__/clustering.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "e34dedde317eb9087092ce1be73319a858c74c3af9f2d7ee30173522edf411e5",
+        "sha256_in_prefix": "e34dedde317eb9087092ce1be73319a858c74c3af9f2d7ee30173522edf411e5",
+        "size_in_bytes": 1687
+      },
+      {
+        "_path": "Lib/site-packages/scikitplot/__pycache__/decomposition.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "85e3afe0a27b4956d2ed868452f8bd40cc8e940f750c63824f3123fdfd47aa9a",
+        "sha256_in_prefix": "85e3afe0a27b4956d2ed868452f8bd40cc8e940f750c63824f3123fdfd47aa9a",
+        "size_in_bytes": 7389
+      },
+      {
+        "_path": "Lib/site-packages/scikitplot/__pycache__/estimators.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "68213413ba761b1563d25d16cb35f5a518a0651ae61a52424e980f4d4535dd7f",
+        "sha256_in_prefix": "68213413ba761b1563d25d16cb35f5a518a0651ae61a52424e980f4d4535dd7f",
+        "size_in_bytes": 8940
+      },
+      {
+        "_path": "Lib/site-packages/scikitplot/__pycache__/helpers.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "3115297954d47cfffcd4ad058f6a70870a3a334bafc0112e8cbe509ef3c6bbda",
+        "sha256_in_prefix": "3115297954d47cfffcd4ad058f6a70870a3a334bafc0112e8cbe509ef3c6bbda",
+        "size_in_bytes": 6463
+      },
+      {
+        "_path": "Lib/site-packages/scikitplot/__pycache__/metrics.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "8efe72d5351a9780a6482bebb3df66b9ef9e13b34b6c154ec4bca9277727e29b",
+        "sha256_in_prefix": "8efe72d5351a9780a6482bebb3df66b9ef9e13b34b6c154ec4bca9277727e29b",
+        "size_in_bytes": 38376
+      },
+      {
+        "_path": "Lib/site-packages/scikitplot/__pycache__/plotters.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "bd4f023a0e74b81632b5f7d704e408f8a6dc07578ce00f693e191fa41f1ae3aa",
+        "sha256_in_prefix": "bd4f023a0e74b81632b5f7d704e408f8a6dc07578ce00f693e191fa41f1ae3aa",
+        "size_in_bytes": 37125
+      },
+      {
+        "_path": "Lib/site-packages/scikitplot/classifiers.py",
+        "path_type": "hardlink",
+        "sha256": "321cfd6637311477d11d8d2ee406bb24ddeaac15f360a8e74ee6b03eb905eefd",
+        "sha256_in_prefix": "321cfd6637311477d11d8d2ee406bb24ddeaac15f360a8e74ee6b03eb905eefd",
+        "size_in_bytes": 25058
+      },
+      {
+        "_path": "Lib/site-packages/scikitplot/cluster.py",
+        "path_type": "hardlink",
+        "sha256": "565a08e010c408201e3545cf6b750f1a27d0248a0adb9b8a2a370ff6281af1bc",
+        "sha256_in_prefix": "565a08e010c408201e3545cf6b750f1a27d0248a0adb9b8a2a370ff6281af1bc",
+        "size_in_bytes": 4865
+      },
+      {
+        "_path": "Lib/site-packages/scikitplot/clustering.py",
+        "path_type": "hardlink",
+        "sha256": "246c4b7a53f81b8e776026a4e478f7189fda92875436b8381a9229c12ebde983",
+        "sha256_in_prefix": "246c4b7a53f81b8e776026a4e478f7189fda92875436b8381a9229c12ebde983",
+        "size_in_bytes": 1735
+      },
+      {
+        "_path": "Lib/site-packages/scikitplot/decomposition.py",
+        "path_type": "hardlink",
+        "sha256": "5a6749503e8fad2d2c13f4e6fe6c42794f81ef075e27ea680cf28da13f63c432",
+        "sha256_in_prefix": "5a6749503e8fad2d2c13f4e6fe6c42794f81ef075e27ea680cf28da13f63c432",
+        "size_in_bytes": 8079
+      },
+      {
+        "_path": "Lib/site-packages/scikitplot/estimators.py",
+        "path_type": "hardlink",
+        "sha256": "0996f375b4f303e355818d170284bc02c54a8c0262390fdd6ac9837bb3105208",
+        "sha256_in_prefix": "0996f375b4f303e355818d170284bc02c54a8c0262390fdd6ac9837bb3105208",
+        "size_in_bytes": 9921
+      },
+      {
+        "_path": "Lib/site-packages/scikitplot/helpers.py",
+        "path_type": "hardlink",
+        "sha256": "bef4aaf6b0354b8ae789a03c6f3945b5471c31b1248bafb6d03abf2ae617ca25",
+        "sha256_in_prefix": "bef4aaf6b0354b8ae789a03c6f3945b5471c31b1248bafb6d03abf2ae617ca25",
+        "size_in_bytes": 7732
+      },
+      {
+        "_path": "Lib/site-packages/scikitplot/metrics.py",
+        "path_type": "hardlink",
+        "sha256": "9eeac7861986c41bd7f7fc9455eb103fd060972c58587e40e9c3cea577038b7a",
+        "sha256_in_prefix": "9eeac7861986c41bd7f7fc9455eb103fd060972c58587e40e9c3cea577038b7a",
+        "size_in_bytes": 47327
+      },
+      {
+        "_path": "Lib/site-packages/scikitplot/plotters.py",
+        "path_type": "hardlink",
+        "sha256": "02734e10a5e7defc0fe97909bf560fc2a5d6e093b6b0415bafd9f36b46ea25ca",
+        "sha256_in_prefix": "02734e10a5e7defc0fe97909bf560fc2a5d6e093b6b0415bafd9f36b46ea25ca",
+        "size_in_bytes": 44073
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "scikit-plot",
+  "sha256": "c70340cc5d89512e00f0d7d833f00d99457bec828337fc6de5de91700f8b9c8c",
+  "size": 43929,
+  "subdir": "win-64",
+  "timestamp": 1686300421902,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/scikit-plot-0.3.7-py310haa95532_0.conda",
+  "version": "0.3.7"
+}
